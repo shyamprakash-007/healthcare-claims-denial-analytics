@@ -1,0 +1,34 @@
+[
+  {
+    "reason_code": "Authorization not obtained",
+    "claims": 154
+  },
+  {
+    "reason_code": "Incorrect billing information",
+    "claims": 142
+  },
+  {
+    "reason_code": "Missing documentation",
+    "claims": 126
+  },
+  {
+    "reason_code": "Patient eligibility issues",
+    "claims": 126
+  },
+  {
+    "reason_code": "Pre-existing condition",
+    "claims": 121
+  },
+  {
+    "reason_code": "Duplicate claim",
+    "claims": 113
+  },
+  {
+    "reason_code": "Service not covered",
+    "claims": 111
+  },
+  {
+    "reason_code": "Lack of medical necessity",
+    "claims": 107
+  }
+]

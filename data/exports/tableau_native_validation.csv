@@ -1,0 +1,59 @@
+scope,metric,sql_predicate,sql_value,expected_display,observed_tableau,status,observed_date
+Executive baseline,Total claims,TRUE,1000,"1,000","1,000",PASS,2026-09-23
+Executive baseline,Total billed,TRUE,297191.00,"297,191","297,191",PASS,2026-09-23
+Executive baseline,Total paid,TRUE,200754.00,"200,754","200,754",PASS,2026-09-23
+Executive baseline,Denial rate,TRUE,32.8,32.8%,32.8%,PASS,2026-09-23
+Executive baseline,Follow-up rate,TRUE,52.2,52.2%,52.2%,PASS,2026-09-23
+Executive baseline,Gross unpaid,TRUE,96437.00,"96,437","96,437",PASS,2026-09-23
+Financial baseline,Total billed,TRUE,297191.00,"297,191","297,191",PASS,2026-09-23
+Financial baseline,Total allowed,TRUE,223112.00,"223,112","223,112",PASS,2026-09-23
+Financial baseline,Total paid,TRUE,200754.00,"200,754","200,754",PASS,2026-09-23
+Financial baseline,Gross unpaid,TRUE,96437.00,"96,437","96,437",PASS,2026-09-23
+Financial baseline,Payment rate,TRUE,67.55049782799614,67.6%,67.6%,PASS,2026-09-23
+Denial baseline,Denied claims,TRUE,328,328,328,PASS,2026-09-23
+Denial baseline,Denial rate,TRUE,32.8,32.8%,32.8%,PASS,2026-09-23
+Denial baseline,Denied billed,TRUE,98069.00,"98,069","98,069",PASS,2026-09-23
+Denial baseline,Any denial billed,TRUE,160801.00,"160,801","160,801",PASS,2026-09-23
+AR baseline,Follow-up rate,TRUE,52.2,52.2%,52.2%,PASS,2026-09-23
+AR baseline,Open AR records,TRUE,683,683,683,PASS,2026-09-23
+AR baseline,Status review flags,TRUE,315,315,315,PASS,2026-09-23
+AR baseline,Under review,TRUE,338,338,338,PASS,2026-09-23
+Medicare executive,Total claims,insurance_type='Medicare',233,233,233,PASS,2026-09-23
+Medicare executive,Total billed,insurance_type='Medicare',66052.00,"66,052","66,052",PASS,2026-09-23
+Medicare executive,Total paid,insurance_type='Medicare',44156.00,"44,156","44,156",PASS,2026-09-23
+Medicare executive,Denial rate,insurance_type='Medicare',36.05150214592275,36.1%,36.1%,PASS,2026-09-23
+Medicare executive,Follow-up rate,insurance_type='Medicare',48.927038626609445,48.9%,48.9%,PASS,2026-09-23
+Medicare executive,Gross unpaid,insurance_type='Medicare',21896.00,"21,896","21,896",PASS,2026-09-23
+Medicare financial,Total billed,insurance_type='Medicare',66052.00,"66,052","66,052",PASS,2026-09-23
+Medicare financial,Total allowed,insurance_type='Medicare',49186.00,"49,186","49,186",PASS,2026-09-23
+Medicare financial,Total paid,insurance_type='Medicare',44156.00,"44,156","44,156",PASS,2026-09-23
+Medicare financial,Gross unpaid,insurance_type='Medicare',21896.00,"21,896","21,896",PASS,2026-09-23
+Medicare financial,Payment rate,insurance_type='Medicare',66.85036032217042,66.9%,66.9%,PASS,2026-09-23
+May executive,Total claims,service_month_start=DATE '2024-05-01',215,215,215,PASS,2026-09-23
+May executive,Total billed,service_month_start=DATE '2024-05-01',63297.00,"63,297","63,297",PASS,2026-09-23
+May executive,Total paid,service_month_start=DATE '2024-05-01',42630.00,"42,630","42,630",PASS,2026-09-23
+May executive,Denial rate,service_month_start=DATE '2024-05-01',32.093023255813954,32.1%,32.1%,PASS,2026-09-23
+May executive,Follow-up rate,service_month_start=DATE '2024-05-01',56.74418604651163,56.7%,56.7%,PASS,2026-09-23
+May executive,Gross unpaid,service_month_start=DATE '2024-05-01',20667.00,"20,667","20,667",PASS,2026-09-23
+Denied executive,Total claims,claim_status='Denied',328,328,328,PASS,2026-09-23
+Denied executive,Total billed,claim_status='Denied',98069.00,"98,069","98,069",PASS,2026-09-23
+Denied executive,Total paid,claim_status='Denied',65931.00,"65,931","65,931",PASS,2026-09-23
+Denied executive,Denial rate,claim_status='Denied',100.0,100.0%,100.0%,PASS,2026-09-23
+Denied executive,Follow-up rate,claim_status='Denied',50.0,50.0%,50.0%,PASS,2026-09-23
+Denied executive,Gross unpaid,claim_status='Denied',32138.00,"32,138","32,138",PASS,2026-09-23
+Open AR executive,Total claims,ar_status='Open',160,160,160,PASS,2026-09-23
+Open AR executive,Total billed,ar_status='Open',48606.00,"48,606","48,606",PASS,2026-09-23
+Open AR executive,Total paid,ar_status='Open',33097.00,"33,097","33,097",PASS,2026-09-23
+Open AR executive,Denial rate,ar_status='Open',35.625,35.6%,35.6%,PASS,2026-09-23
+Open AR executive,Follow-up rate,ar_status='Open',56.25,56.3%,56.3%,PASS,2026-09-23
+Open AR executive,Gross unpaid,ar_status='Open',15509.00,"15,509","15,509",PASS,2026-09-23
+June-August executive,Total claims,date_of_service BETWEEN DATE '2024-06-01' AND DATE '2024-08-31',654,654,654,PASS,2026-09-23
+June-August executive,Total billed,date_of_service BETWEEN DATE '2024-06-01' AND DATE '2024-08-31',196618.00,"196,618","196,618",PASS,2026-09-23
+June-August executive,Total paid,date_of_service BETWEEN DATE '2024-06-01' AND DATE '2024-08-31',132652.00,"132,652","132,652",PASS,2026-09-23
+June-August executive,Denial rate,date_of_service BETWEEN DATE '2024-06-01' AND DATE '2024-08-31',34.25076452599389,34.3%,34.3%,PASS,2026-09-23
+June-August executive,Follow-up rate,date_of_service BETWEEN DATE '2024-06-01' AND DATE '2024-08-31',50.305810397553515,50.3%,50.3%,PASS,2026-09-23
+June-August executive,Gross unpaid,date_of_service BETWEEN DATE '2024-06-01' AND DATE '2024-08-31',63966.00,"63,966","63,966",PASS,2026-09-23
+Reason action,Denied claims,reason_code='Incorrect billing information',49,49,49,PASS,2026-09-23
+Reason action,Denial rate,reason_code='Incorrect billing information',34.50704225352113,34.5%,34.5%,PASS,2026-09-23
+Reason action,Denied billed,reason_code='Incorrect billing information',15261.00,"15,261","15,261",PASS,2026-09-23
+Reason action,Any denial billed,reason_code='Incorrect billing information',26405.00,"26,405","26,405",PASS,2026-09-23

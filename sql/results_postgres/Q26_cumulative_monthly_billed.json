@@ -1,0 +1,27 @@
+[
+  {
+    "service_month_start": "2024-05-01T00:00:00.000Z",
+    "billed": "63297.00",
+    "cumulative_billed": "63297.00"
+  },
+  {
+    "service_month_start": "2024-06-01T00:00:00.000Z",
+    "billed": "69641.00",
+    "cumulative_billed": "132938.00"
+  },
+  {
+    "service_month_start": "2024-07-01T00:00:00.000Z",
+    "billed": "67376.00",
+    "cumulative_billed": "200314.00"
+  },
+  {
+    "service_month_start": "2024-08-01T00:00:00.000Z",
+    "billed": "59601.00",
+    "cumulative_billed": "259915.00"
+  },
+  {
+    "service_month_start": "2024-09-01T00:00:00.000Z",
+    "billed": "37276.00",
+    "cumulative_billed": "297191.00"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "claim_status": "Under Review",
+    "claims": 338
+  },
+  {
+    "claim_status": "Paid",
+    "claims": 334
+  },
+  {
+    "claim_status": "Denied",
+    "claims": 328
+  }
+]

@@ -1,0 +1,10 @@
+claim_status,outcome,claims,inconsistent,ambiguous
+Denied,Denied,112,0.0,0.0
+Denied,Paid,119,119.0,0.0
+Denied,Partially Paid,97,97.0,0.0
+Paid,Denied,99,99.0,0.0
+Paid,Paid,116,0.0,0.0
+Paid,Partially Paid,119,0.0,0.0
+Under Review,Denied,120,0.0,0.0
+Under Review,Paid,122,0.0,122.0
+Under Review,Partially Paid,96,0.0,96.0

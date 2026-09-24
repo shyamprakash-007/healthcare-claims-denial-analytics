@@ -1,0 +1,27 @@
+[
+  {
+    "service_month_start": "2024-05-01T00:00:00.000Z",
+    "denominator_claims": 215,
+    "metric": 215
+  },
+  {
+    "service_month_start": "2024-06-01T00:00:00.000Z",
+    "denominator_claims": 229,
+    "metric": 229
+  },
+  {
+    "service_month_start": "2024-07-01T00:00:00.000Z",
+    "denominator_claims": 227,
+    "metric": 227
+  },
+  {
+    "service_month_start": "2024-08-01T00:00:00.000Z",
+    "denominator_claims": 198,
+    "metric": 198
+  },
+  {
+    "service_month_start": "2024-09-01T00:00:00.000Z",
+    "denominator_claims": 131,
+    "metric": 131
+  }
+]

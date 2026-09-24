@@ -1,0 +1,42 @@
+[
+  {
+    "reason_code": "Authorization not obtained",
+    "denominator_claims": 154,
+    "metric": "0.31168831168831168831"
+  },
+  {
+    "reason_code": "Duplicate claim",
+    "denominator_claims": 113,
+    "metric": "0.35398230088495575221"
+  },
+  {
+    "reason_code": "Incorrect billing information",
+    "denominator_claims": 142,
+    "metric": "0.34507042253521126761"
+  },
+  {
+    "reason_code": "Lack of medical necessity",
+    "denominator_claims": 107,
+    "metric": "0.37383177570093457944"
+  },
+  {
+    "reason_code": "Missing documentation",
+    "denominator_claims": 126,
+    "metric": "0.29365079365079365079"
+  },
+  {
+    "reason_code": "Patient eligibility issues",
+    "denominator_claims": 126,
+    "metric": "0.32539682539682539683"
+  },
+  {
+    "reason_code": "Pre-existing condition",
+    "denominator_claims": 121,
+    "metric": "0.37190082644628099174"
+  },
+  {
+    "reason_code": "Service not covered",
+    "denominator_claims": 111,
+    "metric": "0.25225225225225225225"
+  }
+]

@@ -1,0 +1,6 @@
+metric,sql_export,hyper,status
+Total Claims,1000.0,1000.0,PASS
+Total Billed,297191.0,297191.0,PASS
+Total Paid,200754.0,200754.0,PASS
+Denied Claims,328.0,328.0,PASS
+Follow-up Claims,522.0,522.0,PASS

@@ -1,0 +1,7 @@
+{
+  "name": "healthcare-claims-denial-analytics",
+  "private": true,
+  "type": "module",
+  "scripts": {"validate:postgres": "node scripts/validate_postgres.mjs"},
+  "dependencies": {"@electric-sql/pglite": "0.5.8"}
+}

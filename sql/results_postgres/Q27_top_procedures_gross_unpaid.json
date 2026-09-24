@@ -1,0 +1,52 @@
+[
+  {
+    "procedure_code": "99231",
+    "claims": 114,
+    "gross_unpaid": "11127.00"
+  },
+  {
+    "procedure_code": "99221",
+    "claims": 113,
+    "gross_unpaid": "10478.00"
+  },
+  {
+    "procedure_code": "99214",
+    "claims": 102,
+    "gross_unpaid": "10281.00"
+  },
+  {
+    "procedure_code": "99213",
+    "claims": 101,
+    "gross_unpaid": "10002.00"
+  },
+  {
+    "procedure_code": "99215",
+    "claims": 109,
+    "gross_unpaid": "9994.00"
+  },
+  {
+    "procedure_code": "99238",
+    "claims": 95,
+    "gross_unpaid": "9461.00"
+  },
+  {
+    "procedure_code": "99222",
+    "claims": 89,
+    "gross_unpaid": "9007.00"
+  },
+  {
+    "procedure_code": "99233",
+    "claims": 100,
+    "gross_unpaid": "8929.00"
+  },
+  {
+    "procedure_code": "99223",
+    "claims": 94,
+    "gross_unpaid": "8879.00"
+  },
+  {
+    "procedure_code": "99232",
+    "claims": 83,
+    "gross_unpaid": "8279.00"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "outcome": "Paid",
+    "claims": 357
+  },
+  {
+    "outcome": "Denied",
+    "claims": 331
+  },
+  {
+    "outcome": "Partially Paid",
+    "claims": 312
+  }
+]

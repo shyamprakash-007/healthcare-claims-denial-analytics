@@ -1,0 +1,41 @@
+{
+  "insurance_type": [
+    "Commercial",
+    "Medicaid",
+    "Medicare",
+    "Self-Pay"
+  ],
+  "claim_status": [
+    "Denied",
+    "Paid",
+    "Under Review"
+  ],
+  "reason_code": [
+    "Authorization not obtained",
+    "Duplicate claim",
+    "Incorrect billing information",
+    "Lack of medical necessity",
+    "Missing documentation",
+    "Patient eligibility issues",
+    "Pre-existing condition",
+    "Service not covered"
+  ],
+  "follow_up_required": [
+    "No",
+    "Yes"
+  ],
+  "ar_status": [
+    "Closed",
+    "Denied",
+    "On Hold",
+    "Open",
+    "Partially Paid",
+    "Pending"
+  ],
+  "outcome": [
+    "Denied",
+    "Paid",
+    "Partially Paid"
+  ],
+  "source_sha256": "2811285371b368c571823d4197fc5535857a9e2d12be765e540f0a78a9f229d9"
+}

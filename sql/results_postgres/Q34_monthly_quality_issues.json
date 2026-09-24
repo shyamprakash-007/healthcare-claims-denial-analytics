@@ -1,0 +1,37 @@
+[
+  {
+    "service_month_start": "2024-05-01T00:00:00.000Z",
+    "status_review": 63,
+    "ar_review": 34,
+    "monetary_anomalies": 0,
+    "claims": 215
+  },
+  {
+    "service_month_start": "2024-06-01T00:00:00.000Z",
+    "status_review": 71,
+    "ar_review": 41,
+    "monetary_anomalies": 0,
+    "claims": 229
+  },
+  {
+    "service_month_start": "2024-07-01T00:00:00.000Z",
+    "status_review": 69,
+    "ar_review": 34,
+    "monetary_anomalies": 0,
+    "claims": 227
+  },
+  {
+    "service_month_start": "2024-08-01T00:00:00.000Z",
+    "status_review": 74,
+    "ar_review": 38,
+    "monetary_anomalies": 0,
+    "claims": 198
+  },
+  {
+    "service_month_start": "2024-09-01T00:00:00.000Z",
+    "status_review": 38,
+    "ar_review": 21,
+    "monetary_anomalies": 0,
+    "claims": 131
+  }
+]

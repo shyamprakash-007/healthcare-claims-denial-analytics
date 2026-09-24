@@ -1,0 +1,5 @@
+insurance_type,denominator_claims,metric
+Commercial,259,53165.0
+Medicaid,259,53177.0
+Medicare,233,44156.0
+Self-Pay,249,50256.0

@@ -1,0 +1,127 @@
+{
+  "engine": "PostgreSQL 18.3 (PGlite 0.5.8) on wasm32-unknown-emscripten, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.74 (1092ec30a3fb1d46b1782ff1b4db5094d3d06ae5), 32-bit",
+  "runner": "PGlite embedded PostgreSQL; not a network PostgreSQL server",
+  "queries_executed": 37,
+  "checks": [
+    {
+      "metric": "total_claims",
+      "python": 1000,
+      "postgres": 1000,
+      "status": "PASS"
+    },
+    {
+      "metric": "total_billed_amount",
+      "python": 297191,
+      "postgres": 297191,
+      "status": "PASS"
+    },
+    {
+      "metric": "total_allowed_amount",
+      "python": 223112,
+      "postgres": 223112,
+      "status": "PASS"
+    },
+    {
+      "metric": "total_paid_amount",
+      "python": 200754,
+      "postgres": 200754,
+      "status": "PASS"
+    },
+    {
+      "metric": "denied_claims",
+      "python": 328,
+      "postgres": 328,
+      "status": "PASS"
+    },
+    {
+      "metric": "outcome_denied_claims",
+      "python": 331,
+      "postgres": 331,
+      "status": "PASS"
+    },
+    {
+      "metric": "paid_claims",
+      "python": 334,
+      "postgres": 334,
+      "status": "PASS"
+    },
+    {
+      "metric": "under_review_claims",
+      "python": 338,
+      "postgres": 338,
+      "status": "PASS"
+    },
+    {
+      "metric": "follow_up_claims",
+      "python": 522,
+      "postgres": 522,
+      "status": "PASS"
+    },
+    {
+      "metric": "gross_unpaid_amount",
+      "python": 96437,
+      "postgres": 96437,
+      "status": "PASS"
+    },
+    {
+      "metric": "denied_billed_amount",
+      "python": 98069,
+      "postgres": 98069,
+      "status": "PASS"
+    },
+    {
+      "metric": "any_denial_amount",
+      "python": 160801,
+      "postgres": 160801,
+      "status": "PASS"
+    },
+    {
+      "metric": "open_ar_records",
+      "python": 683,
+      "postgres": 683,
+      "status": "PASS"
+    },
+    {
+      "metric": "status_inconsistency_count",
+      "python": 315,
+      "postgres": 315,
+      "status": "PASS"
+    },
+    {
+      "metric": "payment_rate",
+      "python": 0.6755049782799614,
+      "postgres": 0.6755049782799614,
+      "status": "PASS"
+    },
+    {
+      "metric": "allowed_rate",
+      "python": 0.7507360586289625,
+      "postgres": 0.7507360586289625,
+      "status": "PASS"
+    },
+    {
+      "metric": "average_claim_value",
+      "python": 297.191,
+      "postgres": 297.191,
+      "status": "PASS"
+    },
+    {
+      "metric": "claim_status_denial_rate",
+      "python": 0.328,
+      "postgres": 0.328,
+      "status": "PASS"
+    },
+    {
+      "metric": "outcome_denial_rate",
+      "python": 0.331,
+      "postgres": 0.331,
+      "status": "PASS"
+    },
+    {
+      "metric": "follow_up_rate",
+      "python": 0.522,
+      "postgres": 0.522,
+      "status": "PASS"
+    }
+  ]
+}

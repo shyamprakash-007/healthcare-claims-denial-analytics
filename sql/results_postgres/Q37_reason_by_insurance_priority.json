@@ -1,0 +1,86 @@
+[
+  {
+    "insurance_type": "Commercial",
+    "reason_code": "Lack of medical necessity",
+    "denied_claims": 16,
+    "denied_billed": "5356.00",
+    "priority": 1
+  },
+  {
+    "insurance_type": "Commercial",
+    "reason_code": "Incorrect billing information",
+    "denied_claims": 13,
+    "denied_billed": "4143.00",
+    "priority": 2
+  },
+  {
+    "insurance_type": "Commercial",
+    "reason_code": "Authorization not obtained",
+    "denied_claims": 12,
+    "denied_billed": "3622.00",
+    "priority": 3
+  },
+  {
+    "insurance_type": "Medicaid",
+    "reason_code": "Patient eligibility issues",
+    "denied_claims": 16,
+    "denied_billed": "4583.00",
+    "priority": 1
+  },
+  {
+    "insurance_type": "Medicaid",
+    "reason_code": "Duplicate claim",
+    "denied_claims": 10,
+    "denied_billed": "3428.00",
+    "priority": 2
+  },
+  {
+    "insurance_type": "Medicaid",
+    "reason_code": "Missing documentation",
+    "denied_claims": 10,
+    "denied_billed": "3099.00",
+    "priority": 3
+  },
+  {
+    "insurance_type": "Medicare",
+    "reason_code": "Incorrect billing information",
+    "denied_claims": 19,
+    "denied_billed": "5508.00",
+    "priority": 1
+  },
+  {
+    "insurance_type": "Medicare",
+    "reason_code": "Authorization not obtained",
+    "denied_claims": 19,
+    "denied_billed": "5011.00",
+    "priority": 2
+  },
+  {
+    "insurance_type": "Medicare",
+    "reason_code": "Pre-existing condition",
+    "denied_claims": 10,
+    "denied_billed": "3169.00",
+    "priority": 3
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "reason_code": "Missing documentation",
+    "denied_claims": 13,
+    "denied_billed": "4222.00",
+    "priority": 1
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "reason_code": "Lack of medical necessity",
+    "denied_claims": 12,
+    "denied_billed": "4140.00",
+    "priority": 2
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "reason_code": "Incorrect billing information",
+    "denied_claims": 11,
+    "denied_billed": "3819.00",
+    "priority": 3
+  }
+]

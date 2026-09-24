@@ -1,0 +1,63 @@
+validation,expected,actual,status,scope
+total_claims,1000,1000.0,PASS,Python vs executed SQL
+total_billed_amount,297191,297191.0,PASS,Python vs executed SQL
+total_allowed_amount,223112,223112.0,PASS,Python vs executed SQL
+total_paid_amount,200754,200754.0,PASS,Python vs executed SQL
+denied_claims,328,328.0,PASS,Python vs executed SQL
+outcome_denied_claims,331,331.0,PASS,Python vs executed SQL
+paid_claims,334,334.0,PASS,Python vs executed SQL
+under_review_claims,338,338.0,PASS,Python vs executed SQL
+follow_up_claims,522,522.0,PASS,Python vs executed SQL
+gross_unpaid_amount,96437,96437.0,PASS,Python vs executed SQL
+denied_billed_amount,98069,98069.0,PASS,Python vs executed SQL
+any_denial_amount,160801,160801.0,PASS,Python vs executed SQL
+open_ar_records,683,683.0,PASS,Python vs executed SQL
+status_inconsistency_count,315,315.0,PASS,Python vs executed SQL
+payment_rate,0.6755049782799614,0.6755049782799614,PASS,Python vs executed SQL
+allowed_rate,0.7507360586289625,0.7507360586289625,PASS,Python vs executed SQL
+average_claim_value,297.191,297.191,PASS,Python vs executed SQL
+claim_status_denial_rate,0.328,0.328,PASS,Python vs executed SQL
+outcome_denial_rate,0.331,0.331,PASS,Python vs executed SQL
+follow_up_rate,0.522,0.522,PASS,Python vs executed SQL
+row_match_claim_id,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_provider_id,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_patient_id,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_date_of_service,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_billed_amount,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_procedure_code,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_diagnosis_code,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_allowed_amount,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_paid_amount,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_insurance_type,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_claim_status,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_reason_code,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_follow_up_required,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_ar_status,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_outcome,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_gross_unpaid_amount,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_allowed_amount_gap,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_billed_to_allowed_ratio,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_paid_to_billed_ratio,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_paid_to_allowed_ratio,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_claim_status_denied_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_outcome_denied_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_any_denial_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_follow_up_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_open_ar_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_status_consistency_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_status_ambiguity_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_ar_status_review_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_monetary_anomaly_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_zero_amount_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_denied_with_payment_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_paid_with_allowed_gap_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_code_format_flag,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_service_year,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_service_month,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_service_month_name,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_service_quarter,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_service_week,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_service_day_of_week,1000,1000,PASS,Independent Python / SQL field comparison
+row_match_service_month_start,1000,1000,PASS,Independent Python / SQL field comparison
+unique_fact_claim_id,1000,1000,PASS,Fact grain
+raw_sha256,2811285371b368c571823d4197fc5535857a9e2d12be765e540f0a78a9f229d9,2811285371b368c571823d4197fc5535857a9e2d12be765e540f0a78a9f229d9,PASS,Unchanged input

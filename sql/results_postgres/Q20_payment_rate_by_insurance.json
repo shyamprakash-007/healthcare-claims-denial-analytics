@@ -1,0 +1,22 @@
+[
+  {
+    "insurance_type": "Commercial",
+    "denominator_claims": 259,
+    "metric": "0.67708863983698420785"
+  },
+  {
+    "insurance_type": "Medicaid",
+    "denominator_claims": 259,
+    "metric": "0.68093579532358439829"
+  },
+  {
+    "insurance_type": "Medicare",
+    "denominator_claims": 233,
+    "metric": "0.66850360322170411191"
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "denominator_claims": 249,
+    "metric": "0.67435088896343508890"
+  }
+]

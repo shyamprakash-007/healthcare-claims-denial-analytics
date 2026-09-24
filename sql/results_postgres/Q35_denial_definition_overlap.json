@@ -1,0 +1,26 @@
+[
+  {
+    "claim_status_denied_flag": 0,
+    "outcome_denied_flag": 0,
+    "claims": 453,
+    "billed": "136390.00"
+  },
+  {
+    "claim_status_denied_flag": 0,
+    "outcome_denied_flag": 1,
+    "claims": 219,
+    "billed": "62732.00"
+  },
+  {
+    "claim_status_denied_flag": 1,
+    "outcome_denied_flag": 0,
+    "claims": 216,
+    "billed": "64644.00"
+  },
+  {
+    "claim_status_denied_flag": 1,
+    "outcome_denied_flag": 1,
+    "claims": 112,
+    "billed": "33425.00"
+  }
+]

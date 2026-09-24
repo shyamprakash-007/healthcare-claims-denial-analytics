@@ -1,0 +1,18 @@
+[
+  {
+    "insurance_type": "Commercial",
+    "claims": 259
+  },
+  {
+    "insurance_type": "Medicaid",
+    "claims": 259
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "claims": 249
+  },
+  {
+    "insurance_type": "Medicare",
+    "claims": 233
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "reason_code": "Incorrect billing information",
+    "denied_claims": 49,
+    "reason_rank": 1
+  },
+  {
+    "reason_code": "Authorization not obtained",
+    "denied_claims": 48,
+    "reason_rank": 2
+  },
+  {
+    "reason_code": "Pre-existing condition",
+    "denied_claims": 45,
+    "reason_rank": 3
+  },
+  {
+    "reason_code": "Patient eligibility issues",
+    "denied_claims": 41,
+    "reason_rank": 4
+  },
+  {
+    "reason_code": "Duplicate claim",
+    "denied_claims": 40,
+    "reason_rank": 5
+  },
+  {
+    "reason_code": "Lack of medical necessity",
+    "denied_claims": 40,
+    "reason_rank": 5
+  },
+  {
+    "reason_code": "Missing documentation",
+    "denied_claims": 37,
+    "reason_rank": 6
+  },
+  {
+    "reason_code": "Service not covered",
+    "denied_claims": 28,
+    "reason_rank": 7
+  }
+]

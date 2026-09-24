@@ -1,0 +1,22 @@
+[
+  {
+    "insurance_type": "Commercial",
+    "denied_amount": "27386.00",
+    "amount_rank": 1
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "denied_amount": "24435.00",
+    "amount_rank": 2
+  },
+  {
+    "insurance_type": "Medicare",
+    "denied_amount": "23417.00",
+    "amount_rank": 3
+  },
+  {
+    "insurance_type": "Medicaid",
+    "denied_amount": "22831.00",
+    "amount_rank": 4
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "claim_status": "Denied",
+    "outcome": "Denied",
+    "claims": 112,
+    "inconsistent": 0,
+    "ambiguous": 0
+  },
+  {
+    "claim_status": "Denied",
+    "outcome": "Paid",
+    "claims": 119,
+    "inconsistent": 119,
+    "ambiguous": 0
+  },
+  {
+    "claim_status": "Denied",
+    "outcome": "Partially Paid",
+    "claims": 97,
+    "inconsistent": 97,
+    "ambiguous": 0
+  },
+  {
+    "claim_status": "Paid",
+    "outcome": "Denied",
+    "claims": 99,
+    "inconsistent": 99,
+    "ambiguous": 0
+  },
+  {
+    "claim_status": "Paid",
+    "outcome": "Paid",
+    "claims": 116,
+    "inconsistent": 0,
+    "ambiguous": 0
+  },
+  {
+    "claim_status": "Paid",
+    "outcome": "Partially Paid",
+    "claims": 119,
+    "inconsistent": 0,
+    "ambiguous": 0
+  },
+  {
+    "claim_status": "Under Review",
+    "outcome": "Denied",
+    "claims": 120,
+    "inconsistent": 0,
+    "ambiguous": 0
+  },
+  {
+    "claim_status": "Under Review",
+    "outcome": "Paid",
+    "claims": 122,
+    "inconsistent": 0,
+    "ambiguous": 122
+  },
+  {
+    "claim_status": "Under Review",
+    "outcome": "Partially Paid",
+    "claims": 96,
+    "inconsistent": 0,
+    "ambiguous": 96
+  }
+]

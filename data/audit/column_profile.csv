@@ -1,0 +1,16 @@
+field,loaded_dtype,unique_count,missing_count
+claim_id,string,1000,0
+provider_id,string,1000,0
+patient_id,string,1000,0
+date_of_service,string,143,0
+billed_amount,string,363,0
+procedure_code,string,10,0
+diagnosis_code,string,100,0
+allowed_amount,string,332,0
+paid_amount,string,311,0
+insurance_type,string,4,0
+claim_status,string,3,0
+reason_code,string,8,0
+follow_up_required,string,2,0
+ar_status,string,6,0
+outcome,string,3,0

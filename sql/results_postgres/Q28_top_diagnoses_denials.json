@@ -1,0 +1,42 @@
+[
+  {
+    "diagnosis_code": "A05.4",
+    "denied_claims": 9
+  },
+  {
+    "diagnosis_code": "A01.0",
+    "denied_claims": 8
+  },
+  {
+    "diagnosis_code": "A04.1",
+    "denied_claims": 7
+  },
+  {
+    "diagnosis_code": "A06.8",
+    "denied_claims": 7
+  },
+  {
+    "diagnosis_code": "A03.9",
+    "denied_claims": 6
+  },
+  {
+    "diagnosis_code": "A07.1",
+    "denied_claims": 6
+  },
+  {
+    "diagnosis_code": "A15.0",
+    "denied_claims": 6
+  },
+  {
+    "diagnosis_code": "A15.9",
+    "denied_claims": 6
+  },
+  {
+    "diagnosis_code": "A18.7",
+    "denied_claims": 6
+  },
+  {
+    "diagnosis_code": "A18.8",
+    "denied_claims": 6
+  }
+]

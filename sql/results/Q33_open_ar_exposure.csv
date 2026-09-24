@@ -1,0 +1,17 @@
+insurance_type,ar_status,claims,gross_unpaid
+Self-Pay,Open,47,5004.0
+Commercial,On Hold,50,4880.0
+Medicaid,Pending,51,4726.0
+Medicaid,Partially Paid,45,4701.0
+Medicare,Partially Paid,51,4549.0
+Medicare,On Hold,42,4526.0
+Self-Pay,On Hold,43,4518.0
+Medicaid,On Hold,42,4376.0
+Commercial,Open,45,4355.0
+Self-Pay,Partially Paid,48,4355.0
+Commercial,Pending,41,4068.0
+Commercial,Partially Paid,40,3533.0
+Medicaid,Open,39,3493.0
+Medicare,Pending,36,3247.0
+Self-Pay,Pending,34,3216.0
+Medicare,Open,29,2657.0

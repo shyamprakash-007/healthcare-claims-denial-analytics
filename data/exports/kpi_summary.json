@@ -1,0 +1,22 @@
+{
+  "total_claims": 1000.0,
+  "total_billed_amount": 297191.0,
+  "total_allowed_amount": 223112.0,
+  "total_paid_amount": 200754.0,
+  "denied_claims": 328.0,
+  "outcome_denied_claims": 331.0,
+  "paid_claims": 334.0,
+  "under_review_claims": 338.0,
+  "follow_up_claims": 522.0,
+  "gross_unpaid_amount": 96437.0,
+  "denied_billed_amount": 98069.0,
+  "any_denial_amount": 160801.0,
+  "open_ar_records": 683.0,
+  "status_inconsistency_count": 315.0,
+  "payment_rate": 0.6755049782799614,
+  "allowed_rate": 0.7507360586289625,
+  "average_claim_value": 297.191,
+  "claim_status_denial_rate": 0.328,
+  "outcome_denial_rate": 0.331,
+  "follow_up_rate": 0.522
+}

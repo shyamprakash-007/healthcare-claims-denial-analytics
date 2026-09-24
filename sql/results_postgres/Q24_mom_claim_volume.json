@@ -1,0 +1,32 @@
+[
+  {
+    "service_month_start": "2024-05-01T00:00:00.000Z",
+    "metric": 215,
+    "previous": null,
+    "mom_change": null
+  },
+  {
+    "service_month_start": "2024-06-01T00:00:00.000Z",
+    "metric": 229,
+    "previous": 215,
+    "mom_change": "0.06511627906976744186"
+  },
+  {
+    "service_month_start": "2024-07-01T00:00:00.000Z",
+    "metric": 227,
+    "previous": 229,
+    "mom_change": "-0.00873362445414847162"
+  },
+  {
+    "service_month_start": "2024-08-01T00:00:00.000Z",
+    "metric": 198,
+    "previous": 227,
+    "mom_change": "-0.12775330396475770925"
+  },
+  {
+    "service_month_start": "2024-09-01T00:00:00.000Z",
+    "metric": 131,
+    "previous": 198,
+    "mom_change": "-0.33838383838383838384"
+  }
+]

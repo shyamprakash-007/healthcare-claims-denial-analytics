@@ -1,0 +1,26 @@
+[
+  {
+    "ar_status": "Partially Paid",
+    "claims": 184
+  },
+  {
+    "ar_status": "On Hold",
+    "claims": 177
+  },
+  {
+    "ar_status": "Pending",
+    "claims": 162
+  },
+  {
+    "ar_status": "Closed",
+    "claims": 160
+  },
+  {
+    "ar_status": "Open",
+    "claims": 160
+  },
+  {
+    "ar_status": "Denied",
+    "claims": 157
+  }
+]

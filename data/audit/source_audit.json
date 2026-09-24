@@ -1,0 +1,21 @@
+{
+  "rows": 1000,
+  "columns": 15,
+  "exact_duplicate_rows": 0,
+  "duplicate_claim_ids": 0,
+  "invalid_dates": 0,
+  "allowed_above_billed": 0,
+  "paid_above_allowed": 0,
+  "paid_above_billed": 0,
+  "billed_amount_negative": 0,
+  "billed_amount_zero": 0,
+  "allowed_amount_negative": 0,
+  "allowed_amount_zero": 0,
+  "paid_amount_negative": 0,
+  "paid_amount_zero": 0,
+  "claim_id_leading_zero_rows": 38,
+  "provider_id_leading_zero_rows": 107,
+  "patient_id_leading_zero_rows": 92,
+  "procedure_code_leading_zero_rows": 0,
+  "diagnosis_code_leading_zero_rows": 0
+}

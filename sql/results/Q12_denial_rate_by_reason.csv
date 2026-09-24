@@ -1,0 +1,9 @@
+reason_code,denominator_claims,metric
+Authorization not obtained,154,0.3116883116883117
+Duplicate claim,113,0.35398230088495575
+Incorrect billing information,142,0.34507042253521125
+Lack of medical necessity,107,0.37383177570093457
+Missing documentation,126,0.29365079365079366
+Patient eligibility issues,126,0.3253968253968254
+Pre-existing condition,121,0.371900826446281
+Service not covered,111,0.25225225225225223

@@ -1,0 +1,5 @@
+insurance_type,denied_amount,amount_rank
+Commercial,27386.0,1
+Self-Pay,24435.0,2
+Medicare,23417.0,3
+Medicaid,22831.0,4

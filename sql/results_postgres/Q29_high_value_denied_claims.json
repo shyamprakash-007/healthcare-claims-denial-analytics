@@ -1,0 +1,282 @@
+[
+  {
+    "claim_id": "HV6YJFPHS1",
+    "insurance_type": "Commercial",
+    "billed_amount": "498.00",
+    "reason_code": "Patient eligibility issues",
+    "p90": 455,
+    "review_order": 1
+  },
+  {
+    "claim_id": "3FYJ0NHSYH",
+    "insurance_type": "Medicaid",
+    "billed_amount": "496.00",
+    "reason_code": "Patient eligibility issues",
+    "p90": 455,
+    "review_order": 2
+  },
+  {
+    "claim_id": "KG6SX3AG7V",
+    "insurance_type": "Commercial",
+    "billed_amount": "496.00",
+    "reason_code": "Authorization not obtained",
+    "p90": 455,
+    "review_order": 3
+  },
+  {
+    "claim_id": "VVEOSUKMII",
+    "insurance_type": "Commercial",
+    "billed_amount": "495.00",
+    "reason_code": "Duplicate claim",
+    "p90": 455,
+    "review_order": 4
+  },
+  {
+    "claim_id": "4E8URPGWI5",
+    "insurance_type": "Medicare",
+    "billed_amount": "493.00",
+    "reason_code": "Duplicate claim",
+    "p90": 455,
+    "review_order": 5
+  },
+  {
+    "claim_id": "0C3ZMYDXMO",
+    "insurance_type": "Self-Pay",
+    "billed_amount": "489.00",
+    "reason_code": "Lack of medical necessity",
+    "p90": 455,
+    "review_order": 6
+  },
+  {
+    "claim_id": "WUXPAPYDJU",
+    "insurance_type": "Commercial",
+    "billed_amount": "488.00",
+    "reason_code": "Missing documentation",
+    "p90": 455,
+    "review_order": 7
+  },
+  {
+    "claim_id": "1BDJ66Q452",
+    "insurance_type": "Commercial",
+    "billed_amount": "487.00",
+    "reason_code": "Incorrect billing information",
+    "p90": 455,
+    "review_order": 8
+  },
+  {
+    "claim_id": "NDJKQIKBJR",
+    "insurance_type": "Self-Pay",
+    "billed_amount": "487.00",
+    "reason_code": "Missing documentation",
+    "p90": 455,
+    "review_order": 9
+  },
+  {
+    "claim_id": "8TKKLCD9PR",
+    "insurance_type": "Medicare",
+    "billed_amount": "484.00",
+    "reason_code": "Duplicate claim",
+    "p90": 455,
+    "review_order": 10
+  },
+  {
+    "claim_id": "995ZGGP5YQ",
+    "insurance_type": "Self-Pay",
+    "billed_amount": "484.00",
+    "reason_code": "Patient eligibility issues",
+    "p90": 455,
+    "review_order": 11
+  },
+  {
+    "claim_id": "NYK85QFJ0M",
+    "insurance_type": "Commercial",
+    "billed_amount": "484.00",
+    "reason_code": "Missing documentation",
+    "p90": 455,
+    "review_order": 12
+  },
+  {
+    "claim_id": "01L9NHVIUU",
+    "insurance_type": "Medicaid",
+    "billed_amount": "483.00",
+    "reason_code": "Missing documentation",
+    "p90": 455,
+    "review_order": 13
+  },
+  {
+    "claim_id": "FSKS53L7J4",
+    "insurance_type": "Medicaid",
+    "billed_amount": "483.00",
+    "reason_code": "Service not covered",
+    "p90": 455,
+    "review_order": 14
+  },
+  {
+    "claim_id": "MU2O5Y4HBK",
+    "insurance_type": "Medicare",
+    "billed_amount": "483.00",
+    "reason_code": "Duplicate claim",
+    "p90": 455,
+    "review_order": 15
+  },
+  {
+    "claim_id": "PRD42TVDPG",
+    "insurance_type": "Commercial",
+    "billed_amount": "481.00",
+    "reason_code": "Lack of medical necessity",
+    "p90": 455,
+    "review_order": 16
+  },
+  {
+    "claim_id": "MH2GKOI48N",
+    "insurance_type": "Commercial",
+    "billed_amount": "480.00",
+    "reason_code": "Incorrect billing information",
+    "p90": 455,
+    "review_order": 17
+  },
+  {
+    "claim_id": "SVHZ5N5L9U",
+    "insurance_type": "Medicare",
+    "billed_amount": "480.00",
+    "reason_code": "Incorrect billing information",
+    "p90": 455,
+    "review_order": 18
+  },
+  {
+    "claim_id": "KM8H5QNMZF",
+    "insurance_type": "Self-Pay",
+    "billed_amount": "473.00",
+    "reason_code": "Incorrect billing information",
+    "p90": 455,
+    "review_order": 19
+  },
+  {
+    "claim_id": "LAN2241BE2",
+    "insurance_type": "Medicare",
+    "billed_amount": "472.00",
+    "reason_code": "Incorrect billing information",
+    "p90": 455,
+    "review_order": 20
+  },
+  {
+    "claim_id": "PM54Q7IGGF",
+    "insurance_type": "Commercial",
+    "billed_amount": "472.00",
+    "reason_code": "Service not covered",
+    "p90": 455,
+    "review_order": 21
+  },
+  {
+    "claim_id": "7B8G40OLQC",
+    "insurance_type": "Medicare",
+    "billed_amount": "470.00",
+    "reason_code": "Service not covered",
+    "p90": 455,
+    "review_order": 22
+  },
+  {
+    "claim_id": "3XOA6SC9QY",
+    "insurance_type": "Medicare",
+    "billed_amount": "465.00",
+    "reason_code": "Pre-existing condition",
+    "p90": 455,
+    "review_order": 23
+  },
+  {
+    "claim_id": "7B86UJ5JVR",
+    "insurance_type": "Medicare",
+    "billed_amount": "465.00",
+    "reason_code": "Pre-existing condition",
+    "p90": 455,
+    "review_order": 24
+  },
+  {
+    "claim_id": "KBNFZU8SYL",
+    "insurance_type": "Commercial",
+    "billed_amount": "463.00",
+    "reason_code": "Lack of medical necessity",
+    "p90": 455,
+    "review_order": 25
+  },
+  {
+    "claim_id": "H4QNL8ZBRP",
+    "insurance_type": "Commercial",
+    "billed_amount": "460.00",
+    "reason_code": "Incorrect billing information",
+    "p90": 455,
+    "review_order": 26
+  },
+  {
+    "claim_id": "NXKCCKA5NX",
+    "insurance_type": "Medicaid",
+    "billed_amount": "460.00",
+    "reason_code": "Service not covered",
+    "p90": 455,
+    "review_order": 27
+  },
+  {
+    "claim_id": "J9H7OYFB45",
+    "insurance_type": "Medicare",
+    "billed_amount": "459.00",
+    "reason_code": "Pre-existing condition",
+    "p90": 455,
+    "review_order": 28
+  },
+  {
+    "claim_id": "KCBHXUH8WG",
+    "insurance_type": "Medicare",
+    "billed_amount": "457.00",
+    "reason_code": "Incorrect billing information",
+    "p90": 455,
+    "review_order": 29
+  },
+  {
+    "claim_id": "EJTBV2EDZJ",
+    "insurance_type": "Commercial",
+    "billed_amount": "456.00",
+    "reason_code": "Service not covered",
+    "p90": 455,
+    "review_order": 30
+  },
+  {
+    "claim_id": "HIBKOPNEIE",
+    "insurance_type": "Commercial",
+    "billed_amount": "456.00",
+    "reason_code": "Lack of medical necessity",
+    "p90": 455,
+    "review_order": 31
+  },
+  {
+    "claim_id": "JRQFDUNNZA",
+    "insurance_type": "Self-Pay",
+    "billed_amount": "456.00",
+    "reason_code": "Lack of medical necessity",
+    "p90": 455,
+    "review_order": 32
+  },
+  {
+    "claim_id": "8HAXMI6098",
+    "insurance_type": "Self-Pay",
+    "billed_amount": "455.00",
+    "reason_code": "Duplicate claim",
+    "p90": 455,
+    "review_order": 33
+  },
+  {
+    "claim_id": "KRG7YQLWBN",
+    "insurance_type": "Medicare",
+    "billed_amount": "455.00",
+    "reason_code": "Service not covered",
+    "p90": 455,
+    "review_order": 34
+  },
+  {
+    "claim_id": "SALNYWZEJK",
+    "insurance_type": "Medicaid",
+    "billed_amount": "455.00",
+    "reason_code": "Patient eligibility issues",
+    "p90": 455,
+    "review_order": 35
+  }
+]

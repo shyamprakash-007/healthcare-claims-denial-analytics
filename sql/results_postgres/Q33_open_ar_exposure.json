@@ -1,0 +1,98 @@
+[
+  {
+    "insurance_type": "Self-Pay",
+    "ar_status": "Open",
+    "claims": 47,
+    "gross_unpaid": "5004.00"
+  },
+  {
+    "insurance_type": "Commercial",
+    "ar_status": "On Hold",
+    "claims": 50,
+    "gross_unpaid": "4880.00"
+  },
+  {
+    "insurance_type": "Medicaid",
+    "ar_status": "Pending",
+    "claims": 51,
+    "gross_unpaid": "4726.00"
+  },
+  {
+    "insurance_type": "Medicaid",
+    "ar_status": "Partially Paid",
+    "claims": 45,
+    "gross_unpaid": "4701.00"
+  },
+  {
+    "insurance_type": "Medicare",
+    "ar_status": "Partially Paid",
+    "claims": 51,
+    "gross_unpaid": "4549.00"
+  },
+  {
+    "insurance_type": "Medicare",
+    "ar_status": "On Hold",
+    "claims": 42,
+    "gross_unpaid": "4526.00"
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "ar_status": "On Hold",
+    "claims": 43,
+    "gross_unpaid": "4518.00"
+  },
+  {
+    "insurance_type": "Medicaid",
+    "ar_status": "On Hold",
+    "claims": 42,
+    "gross_unpaid": "4376.00"
+  },
+  {
+    "insurance_type": "Commercial",
+    "ar_status": "Open",
+    "claims": 45,
+    "gross_unpaid": "4355.00"
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "ar_status": "Partially Paid",
+    "claims": 48,
+    "gross_unpaid": "4355.00"
+  },
+  {
+    "insurance_type": "Commercial",
+    "ar_status": "Pending",
+    "claims": 41,
+    "gross_unpaid": "4068.00"
+  },
+  {
+    "insurance_type": "Commercial",
+    "ar_status": "Partially Paid",
+    "claims": 40,
+    "gross_unpaid": "3533.00"
+  },
+  {
+    "insurance_type": "Medicaid",
+    "ar_status": "Open",
+    "claims": 39,
+    "gross_unpaid": "3493.00"
+  },
+  {
+    "insurance_type": "Medicare",
+    "ar_status": "Pending",
+    "claims": 36,
+    "gross_unpaid": "3247.00"
+  },
+  {
+    "insurance_type": "Self-Pay",
+    "ar_status": "Pending",
+    "claims": 34,
+    "gross_unpaid": "3216.00"
+  },
+  {
+    "insurance_type": "Medicare",
+    "ar_status": "Open",
+    "claims": 29,
+    "gross_unpaid": "2657.00"
+  }
+]

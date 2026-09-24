@@ -1,0 +1,34 @@
+check,result,action
+Rows,1000,retain
+Columns,15,retain
+Exact duplicate rows,0,remove exact repeats only; preserve raw
+Duplicate Claim IDs,0,stop on conflicting duplicates
+Missing cells,0,required fields fail validation
+Invalid dates,0,flag; stop required-date validation
+billed_amount negative,0,retain + flag; invalid numbers stop validation
+billed_amount zero,0,retain + flag; invalid numbers stop validation
+billed_amount invalid,0,retain + flag; invalid numbers stop validation
+allowed_amount negative,0,retain + flag; invalid numbers stop validation
+allowed_amount zero,0,retain + flag; invalid numbers stop validation
+allowed_amount invalid,0,retain + flag; invalid numbers stop validation
+paid_amount negative,0,retain + flag; invalid numbers stop validation
+paid_amount zero,0,retain + flag; invalid numbers stop validation
+paid_amount invalid,0,retain + flag; invalid numbers stop validation
+Allowed > Billed,0,retain + flag
+Paid > Allowed,0,retain + flag
+Paid > Billed,0,retain + flag
+claim_id leading zeros,38,preserve as text
+provider_id leading zeros,107,preserve as text
+patient_id leading zeros,92,preserve as text
+procedure_code leading zeros,0,preserve as text
+diagnosis_code leading zeros,0,preserve as text
+status_consistency_flag,315,retain + review under frozen rulebook
+status_ambiguity_flag,218,retain + review under frozen rulebook
+ar_status_review_flag,168,retain + review under frozen rulebook
+monetary_anomaly_flag,0,retain + review under frozen rulebook
+zero_amount_flag,0,retain + review under frozen rulebook
+denied_with_payment_flag,328,retain + review under frozen rulebook
+paid_with_allowed_gap_flag,329,retain + review under frozen rulebook
+code_format_flag,0,retain + review under frozen rulebook
+Unexpected categories,0,"Validated against observed source vocabulary, not an external coding standard"
+Unusable required values,0,Hard stop before analytics if encountered

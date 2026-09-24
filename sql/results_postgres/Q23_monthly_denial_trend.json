@@ -1,0 +1,32 @@
+[
+  {
+    "service_month_start": "2024-05-01T00:00:00.000Z",
+    "claims": 215,
+    "denial_rate": "0.32093023255813953488",
+    "change_proportion": null
+  },
+  {
+    "service_month_start": "2024-06-01T00:00:00.000Z",
+    "claims": 229,
+    "denial_rate": "0.36244541484716157205",
+    "change_proportion": "0.04151518228902203717"
+  },
+  {
+    "service_month_start": "2024-07-01T00:00:00.000Z",
+    "claims": 227,
+    "denial_rate": "0.31277533039647577093",
+    "change_proportion": "-0.04967008445068580112"
+  },
+  {
+    "service_month_start": "2024-08-01T00:00:00.000Z",
+    "claims": 198,
+    "denial_rate": "0.35353535353535353535",
+    "change_proportion": "0.04076002313887776442"
+  },
+  {
+    "service_month_start": "2024-09-01T00:00:00.000Z",
+    "claims": 131,
+    "denial_rate": "0.26717557251908396947",
+    "change_proportion": "-0.08635978101626956588"
+  }
+]

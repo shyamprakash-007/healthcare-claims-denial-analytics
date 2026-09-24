@@ -1,0 +1,13 @@
+insurance_type,reason_code,denied_claims,denied_billed,priority
+Commercial,Lack of medical necessity,16,5356.0,1
+Commercial,Incorrect billing information,13,4143.0,2
+Commercial,Authorization not obtained,12,3622.0,3
+Medicaid,Patient eligibility issues,16,4583.0,1
+Medicaid,Duplicate claim,10,3428.0,2
+Medicaid,Missing documentation,10,3099.0,3
+Medicare,Incorrect billing information,19,5508.0,1
+Medicare,Authorization not obtained,19,5011.0,2
+Medicare,Pre-existing condition,10,3169.0,3
+Self-Pay,Missing documentation,13,4222.0,1
+Self-Pay,Lack of medical necessity,12,4140.0,2
+Self-Pay,Incorrect billing information,11,3819.0,3

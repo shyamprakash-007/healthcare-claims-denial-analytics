@@ -1,0 +1,2 @@
+total_claims,total_billed_amount,total_allowed_amount,total_paid_amount,denied_claims,outcome_denied_claims,paid_claims,under_review_claims,follow_up_claims,gross_unpaid_amount,denied_billed_amount,any_denial_amount,open_ar_records,status_inconsistency_count,payment_rate,allowed_rate,average_claim_value,claim_status_denial_rate,outcome_denial_rate,follow_up_rate
+1000,297191.0,223112.0,200754.0,328,331,334,338,522.0,96437.0,98069.0,160801.0,683.0,315.0,0.6755049782799614,0.7507360586289625,297.191,0.328,0.331,0.522

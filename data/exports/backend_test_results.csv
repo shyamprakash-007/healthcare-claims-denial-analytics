@@ -1,0 +1,88 @@
+check,status,detail
+missing ID rejected,PASS,Required input / category gate
+invalid calendar date rejected,PASS,Required input / category gate
+invalid amount rejected,PASS,Required input / category gate
+unapproved category rejected,PASS,Required input / category gate
+Exact duplicate not double counted,PASS,Original raw file remains unchanged
+Conflicting duplicate ID rejected,PASS,No arbitrary first/last claim selection
+Zero denominator ratios are null,PASS,Undefined is not zero
+Overpayment retained and flagged,PASS,No clipping balances to zero
+Negative amounts retained and flagged,PASS,No silent deletion or absolute value
+PostgreSQL field claim_key,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field claim_id,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field provider_id,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field patient_id,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field insurance_type,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field procedure_code,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field diagnosis_code,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field reason_code,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field date_of_service,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field billed_amount,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field allowed_amount,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field paid_amount,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field claim_status,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field follow_up_required,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field ar_status,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field outcome,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field gross_unpaid_amount,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field allowed_amount_gap,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field billed_to_allowed_ratio,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field paid_to_billed_ratio,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field paid_to_allowed_ratio,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field claim_status_denied_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field outcome_denied_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field any_denial_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field follow_up_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field open_ar_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field status_consistency_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field status_ambiguity_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field ar_status_review_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field monetary_anomaly_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field zero_amount_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field denied_with_payment_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field paid_with_allowed_gap_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field code_format_flag,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field service_year,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field service_month,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field service_month_name,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field service_quarter,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field service_week,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field service_day_of_week,PASS,"1,000 values checked against DuckDB"
+PostgreSQL field service_month_start,PASS,"1,000 values checked against DuckDB"
+Q01 cross-engine results,PASS,1 result rows; total_claims
+Q02 cross-engine results,PASS,1 result rows; total_billed
+Q03 cross-engine results,PASS,1 result rows; total_allowed
+Q04 cross-engine results,PASS,1 result rows; total_paid
+Q05 cross-engine results,PASS,3 result rows; claim_status_distribution
+Q06 cross-engine results,PASS,4 result rows; insurance_type_distribution
+Q07 cross-engine results,PASS,6 result rows; ar_status_distribution
+Q08 cross-engine results,PASS,2 result rows; follow_up_required_distribution
+Q09 cross-engine results,PASS,8 result rows; reason_code_distribution
+Q10 cross-engine results,PASS,3 result rows; outcome_distribution
+Q11 cross-engine results,PASS,4 result rows; denial_rate_by_insurance
+Q12 cross-engine results,PASS,8 result rows; denial_rate_by_reason
+Q13 cross-engine results,PASS,4 result rows; billed_by_insurance
+Q14 cross-engine results,PASS,4 result rows; paid_by_insurance
+Q15 cross-engine results,PASS,4 result rows; gross_unpaid_by_insurance
+Q16 cross-engine results,PASS,4 result rows; follow_up_rate_by_insurance
+Q17 cross-engine results,PASS,5 result rows; monthly_claim_volume
+Q18 cross-engine results,PASS,5 result rows; monthly_denied_amount
+Q19 cross-engine results,PASS,4 result rows; average_claim_value_by_insurance
+Q20 cross-engine results,PASS,4 result rows; payment_rate_by_insurance
+Q21 cross-engine results,PASS,4 result rows; rank_insurance_denied_amount
+Q22 cross-engine results,PASS,8 result rows; rank_denial_reasons
+Q23 cross-engine results,PASS,5 result rows; monthly_denial_trend
+Q24 cross-engine results,PASS,5 result rows; mom_claim_volume
+Q25 cross-engine results,PASS,5 result rows; mom_paid_amount
+Q26 cross-engine results,PASS,5 result rows; cumulative_monthly_billed
+Q27 cross-engine results,PASS,10 result rows; top_procedures_gross_unpaid
+Q28 cross-engine results,PASS,10 result rows; top_diagnoses_denials
+Q29 cross-engine results,PASS,35 result rows; high_value_denied_claims
+Q30 cross-engine results,PASS,9 result rows; status_outcome_inconsistency
+Q31 cross-engine results,PASS,1 result rows; kpi_summary
+Q32 cross-engine results,PASS,3 result rows; follow_up_by_status
+Q33 cross-engine results,PASS,16 result rows; open_ar_exposure
+Q34 cross-engine results,PASS,5 result rows; monthly_quality_issues
+Q35 cross-engine results,PASS,4 result rows; denial_definition_overlap
+Q36 cross-engine results,PASS,1 result rows; denied_paid_value
+Q37 cross-engine results,PASS,12 result rows; reason_by_insurance_priority

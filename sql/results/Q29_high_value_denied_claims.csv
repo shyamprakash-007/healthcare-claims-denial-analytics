@@ -1,0 +1,36 @@
+claim_id,insurance_type,billed_amount,reason_code,p90,review_order
+HV6YJFPHS1,Commercial,498.0,Patient eligibility issues,455.0,1
+3FYJ0NHSYH,Medicaid,496.0,Patient eligibility issues,455.0,2
+KG6SX3AG7V,Commercial,496.0,Authorization not obtained,455.0,3
+VVEOSUKMII,Commercial,495.0,Duplicate claim,455.0,4
+4E8URPGWI5,Medicare,493.0,Duplicate claim,455.0,5
+0C3ZMYDXMO,Self-Pay,489.0,Lack of medical necessity,455.0,6
+WUXPAPYDJU,Commercial,488.0,Missing documentation,455.0,7
+1BDJ66Q452,Commercial,487.0,Incorrect billing information,455.0,8
+NDJKQIKBJR,Self-Pay,487.0,Missing documentation,455.0,9
+8TKKLCD9PR,Medicare,484.0,Duplicate claim,455.0,10
+995ZGGP5YQ,Self-Pay,484.0,Patient eligibility issues,455.0,11
+NYK85QFJ0M,Commercial,484.0,Missing documentation,455.0,12
+01L9NHVIUU,Medicaid,483.0,Missing documentation,455.0,13
+FSKS53L7J4,Medicaid,483.0,Service not covered,455.0,14
+MU2O5Y4HBK,Medicare,483.0,Duplicate claim,455.0,15
+PRD42TVDPG,Commercial,481.0,Lack of medical necessity,455.0,16
+MH2GKOI48N,Commercial,480.0,Incorrect billing information,455.0,17
+SVHZ5N5L9U,Medicare,480.0,Incorrect billing information,455.0,18
+KM8H5QNMZF,Self-Pay,473.0,Incorrect billing information,455.0,19
+LAN2241BE2,Medicare,472.0,Incorrect billing information,455.0,20
+PM54Q7IGGF,Commercial,472.0,Service not covered,455.0,21
+7B8G40OLQC,Medicare,470.0,Service not covered,455.0,22
+3XOA6SC9QY,Medicare,465.0,Pre-existing condition,455.0,23
+7B86UJ5JVR,Medicare,465.0,Pre-existing condition,455.0,24
+KBNFZU8SYL,Commercial,463.0,Lack of medical necessity,455.0,25
+H4QNL8ZBRP,Commercial,460.0,Incorrect billing information,455.0,26
+NXKCCKA5NX,Medicaid,460.0,Service not covered,455.0,27
+J9H7OYFB45,Medicare,459.0,Pre-existing condition,455.0,28
+KCBHXUH8WG,Medicare,457.0,Incorrect billing information,455.0,29
+EJTBV2EDZJ,Commercial,456.0,Service not covered,455.0,30
+HIBKOPNEIE,Commercial,456.0,Lack of medical necessity,455.0,31
+JRQFDUNNZA,Self-Pay,456.0,Lack of medical necessity,455.0,32
+8HAXMI6098,Self-Pay,455.0,Duplicate claim,455.0,33
+KRG7YQLWBN,Medicare,455.0,Service not covered,455.0,34
+SALNYWZEJK,Medicaid,455.0,Patient eligibility issues,455.0,35
