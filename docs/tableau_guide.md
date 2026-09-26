@@ -23,6 +23,6 @@ Open `tableau/Healthcare_Claims_Denial_Analytics.twbx` in Tableau Public/Desktop
 
 After regenerating the analytical CSV, run `python scripts/build_tableau.py`. This recreates the TWB, Hyper and TWBX. Keep `Data/claims.hyper` next to the unpackaged TWB. Prefer the TWBX for portability. Recheck the dashboards after changing source data or calculations.
 
-The four PNGs under screenshots are actual Tableau presentation captures. Native KPI comparisons are in `data/exports/tableau_native_validation.csv`; representative filter/action captures are in `docs/validation_evidence`. These are observed UI checks, separate from the five Hyper data controls.
+The four PNGs under screenshots are actual Tableau presentation captures. Native KPI comparisons are in `data/exports/tableau_native_validation.csv`; the table includes filter and reason-action observations. These are observed UI checks, separate from the five Hyper data controls.
 
 The delivered files are local. In this Tableau installation Ctrl+S invoked a publishing flow; it was cancelled. Use a clearly labelled local-save menu if saving edits and review any publishing destination before proceeding.

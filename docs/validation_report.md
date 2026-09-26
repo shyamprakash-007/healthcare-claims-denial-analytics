@@ -14,7 +14,7 @@ Backend verification completed on September 22, 2026.
 | Notebook | All 10 code cells executed under the 11 required headings; no cell errors | 01_claims_data_preparation.ipynb |
 | Google Colab runtime | September 24, 2026: 10 code cells, 62 checks passed; full analytical export matches local | colab_execution_report.json, colab_validation_summary.csv, 01_claims_data_preparation_colab.ipynb |
 | Hyper extract | 5 controls passed | hyper_reconciliation.csv |
-| Native Tableau | 58 KPI display comparisons passed, September 23, 2026 | tableau_native_validation.csv, screenshots, validation_evidence |
+| Native Tableau | 58 KPI display comparisons passed, September 23, 2026 | tableau_native_validation.csv, screenshots |
 
 The 87 additional checks comprise nine boundary tests, 41 view-field comparisons across engines, and 37 complete query-result comparisons. Boundaries cover missing IDs, invalid dates/numbers, unexpected categories, exact/conflicting duplicates, zero denominators, overpayments and negative amounts. Synthetic test inputs are temporary in-memory records; they are not added to the source.
 
@@ -28,5 +28,5 @@ Shared parameter state persisted between Financial and Executive. Date bounds we
 
 Native review exposed an internal connection assertion (C4E5AE8D) during reason selection in an earlier build. The main Hyper connection was wrapped in a named federated connection; the revised package was reopened and the action and clear operation completed without the error. The final procedure caption and ratio-band ordering were also corrected and visually checked.
 
-The workbook was restored to the full unfiltered population. The delivered package has default All parameters and May 1–September 20 dates. A Save shortcut unexpectedly entered Tableau's publishing preparation flow; it was cancelled, and Tableau confirmed that the save was cancelled. No successful public publication is claimed. Files delivered here were written locally by the reproducible builder.
+The workbook was restored to the full unfiltered population. The delivered package has default All parameters and May 1–September 20 dates. The workbook is distributed as a packaged Tableau file in the GitHub repository; a separately hosted Tableau Public visualization is not included.
 
